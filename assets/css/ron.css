@@ -1,0 +1,66 @@
+
+
+bgground {
+
+    color: pink ;
+
+}
+
+
+ bgg1 {
+
+    background:url(images/bgport.jpg) ;
+
+}
+
+
+#bgabout1 {
+
+    background:url(/images/bgabout1.jpg) ;
+
+}
+
+
+ bgcontact {
+
+    background:url(<?php echo base_url(); ?>images/bgcontact.jpg) ;
+
+}
+
+
+
+ #bged {
+
+    background:url(<?php echo base_url(); ?>css/images/bged.jpg) ;
+
+}
+
+
+
+
+ .bgall {
+
+    background:url(<?php echo base_url(); ?>css/images/bgall.jpg) ;
+
+}
+
+ .photobg {
+
+    background:url(<?php echo base_url(); ?>css/images/photobg.jpg) ;
+
+}
+
+.container{
+
+
+    text-align: center;
+
+    padding-top: 15px; 
+    padding-right: 15px; 
+    padding-left: 15px; 
+    margin-right: auto; 
+    margin-left: auto;
+
+}
+
+
